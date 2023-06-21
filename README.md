@@ -1,1 +1,1 @@
-## This repository contains an extended version of "Skeletal Cores and Graph Resilience", accepted at the [ECML/PKDD](https://2023.ecmlpkdd.org/) 2023 as well as corresponding source code.
+## This repository contains an extended version of paper "Skeletal Cores and Graph Resilience" as well as corresponding source code. Paper was accepted at the [ECML/PKDD](https://2023.ecmlpkdd.org/) 2023.
